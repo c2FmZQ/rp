@@ -20,8 +20,8 @@ require (
 	github.com/russellhaering/goxmldsig v1.4.0
 	golang.org/x/crypto v0.32.0
 	golang.org/x/net v0.34.0
-	golang.org/x/sys v0.29.0
-	golang.org/x/time v0.9.0
+	golang.org/x/sys v0.30.0
+	golang.org/x/time v0.10.0
 	gopkg.in/yaml.v3 v3.0.1
 	software.sslmate.com/src/go-pkcs12 v0.5.0
 )
@@ -29,7 +29,7 @@ require (
 require (
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-tpm v0.9.3 // indirect
-	github.com/google/pprof v0.0.0-20250128161936-077ca0a936bf // indirect
+	github.com/google/pprof v0.0.0-20250202011525-fc3143867406 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/jonboulle/clockwork v0.5.0 // indirect
 	github.com/onsi/ginkgo/v2 v2.22.2 // indirect
@@ -37,8 +37,8 @@ require (
 	github.com/x448/float16 v0.8.4 // indirect
 	go.uber.org/mock v0.5.0 // indirect
 	golang.org/x/exp v0.0.0-20250128182459-e0ece0dbea4c // indirect
-	golang.org/x/mod v0.22.0 // indirect
-	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/mod v0.23.0 // indirect
+	golang.org/x/sync v0.11.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 	golang.org/x/tools v0.29.0 // indirect
 )
